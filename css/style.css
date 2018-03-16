@@ -1,0 +1,82 @@
+body{
+   font-family: 'Anton', sans-serif;
+}
+.flex-con{
+  display:flex;
+  margin:0px;
+}
+.twenty{
+  align-self:center;
+  width:20vw;
+  background-
+  }
+.twenty img{
+  float: 1;
+  max-width:100%;
+  opacity: 0.8;
+  height:130px;
+}
+.purpleBar{
+  display:flex;
+  background-color:#5b0e87;
+  height:140px;
+ flex:1;
+ 
+}
+.box{
+  cursor: pointer;
+  color:white;
+  flex:1;
+  border: 1px solid black;
+  align-self:center;
+  text-align:center;
+  margin:5px;
+  padding:25px;
+   align-items:center;
+  font-size:30px;
+  
+  
+}
+.box:focus{
+  background-color:#700d00;
+  outline-width: 0;
+  
+}
+.yellow{
+  background-color:#edd710;
+  color:black;
+}
+.gray{
+  background-color:gray;
+}
+.yBar{
+  font-size: 25px;
+  text-align:center;
+  background-color:#ffed51;
+}
+.red{
+  background-color:#c61700;
+}
+.sixty{
+  background-color:black;
+  width:60vw;
+  height:90vh;
+  
+}
+.forty{
+  width:40vw;
+  font-size:20px;
+}
+.forty p{
+  padding-left:15px;
+  
+}
+.blackBar{
+  height: 70px;
+  background-color:black;
+  color:white;
+  text-align:center;
+  line-height:70px;
+  font-size:35px;
+  margin:0px;
+}
